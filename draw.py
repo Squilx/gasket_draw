@@ -1,5 +1,4 @@
 import turtle
-import math
 from PIL import ImageGrab
 import os
 
